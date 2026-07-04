@@ -9,7 +9,7 @@ Reach for this when you want to stop reacting to money and start running it on a
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/personal-finance-mastery](https://skillme.dev/pack/personal-finance-mastery) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/personal-finance-mastery`
+- **With the skills CLI:** `npx skills add SkillMedev/personal-finance-mastery`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
